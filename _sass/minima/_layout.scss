@@ -4,12 +4,25 @@
 .site-header {
   border-top: 5px solid $border-color-03;
   border-bottom: 1px solid $border-color-01;
-  min-height: $spacing-unit * 1.865;
+  min-height: $spacing-unit * 4.75;
   line-height: $base-line-height * $base-font-size * 2.25;
 
   // Positioning context for the mobile navigation icon
   position: relative;
 }
+
+/** UIBK **/
+.banner {
+  background: url("/assets/siegel-universitaet-innsbruck-header.jpg");
+  background-position: left -439px top -329px;
+  background-repeat: no-repeat;
+  background-color: #fff;
+  background-attachment: local;
+  background-origin: border-box;
+  background-clip: border-box;
+  border-bottom: 1px solid #efefef;
+}
+
 
 .site-title {
   @include relative-font-size(1.625);

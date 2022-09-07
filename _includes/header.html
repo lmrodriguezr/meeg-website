@@ -1,10 +1,18 @@
-<header class="site-header">
+<header class="banner site-header">
+
+  <div id="logo-uni">
+    <a class="logo custom-logo sprite-bg" href="https://uibk.ac.at/"
+      title="Home – University of Innsbruck"><img loading="eager"
+      src="https://uibk.ac.at/stylesheets/15/images/350/logo-uibk.svg"
+      alt="Home - Universität Innsbruck" style="width:8.9em;margin: 1.25em 0 0.5em 2.2em;"></a>
+  </div>
 
   <div class="wrapper">
+
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.full_title | escape }}</a>
 
     {%- if titles_size > 0 -%}
       <nav class="site-nav">

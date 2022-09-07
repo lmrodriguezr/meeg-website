@@ -1,0 +1,47 @@
+---
+layout: page
+title: Taller Alexander von Humboldt 2022
+permalink: /taller/
+---
+
+# Jueves: Metagenomas
+
+# Viernes: Genomas
+
+### Grupo 1
+- [SK_OC26_0_Bins_054](../assets/taller/SK_OC26_0_Bins_054.LargeContigs.fna.gz)
+- [SK_OSA_bins_001](../assets/taller/SK_OSA_bins_001.LargeContigs.fna.gz)
+- [asm_GCA_004377235_1.LargeContigs.fna](../assets/taller/asm_GCA_004377235_1.LargeContigs.fna.gz)
+- [SK_MBAll_127](../assets/taller/SK_MBAll_127.LargeContigs.fna.gz)
+
+### Grupo 2
+- [SK_OSA_bins_004](../assets/taller/SK_OSA_bins_004.LargeContigs.fna.gz)
+- [SK_OSB_bins_003](../assets/taller/SK_OSB_bins_003.LargeContigs.fna.gz)
+- [SK_Mason_Bins_Coassembly_AllReads_039](../assets/taller/SK_Mason_Bins_Coassembly_AllReads_039.LargeContigs.fna.gz)
+- [SK_MBodp_008](../assets/taller/SK_MBodp_008.LargeContigs.fna.gz)
+
+### Grupo 3
+- [SK_OSC_bins_008](../assets/taller/SK_OSC_bins_008.LargeContigs.fna.gz)
+- [SK_OSS_bins_002](../assets/taller/SK_OSS_bins_002.LargeContigs.fna.gz)
+- [SK_Mason_Bins_BP350_AllReads_001](../assets/taller/SK_Mason_Bins_BP350_AllReads_001.LargeContigs.fna.gz)
+- [SK_MBodp_029](../assets/taller/SK_MBodp_029.LargeContigs.fna.gz)
+
+### Grupo 4
+- [SK_OS_G_Bin_AG_003](../assets/taller/SK_OS_G_Bin_AG_003.LargeContigs.fna.gz)
+- [SK_OSF_bins_003](../assets/taller/SK_OSF_bins_003.LargeContigs.fna.gz)
+- [SK_Mason_Bins_BP278_AllReads_002](../assets/taller/SK_Mason_Bins_BP278_AllReads_002.LargeContigs.fna.gz)
+- [SK_T3_Oil_BinsV2_006](../assets/taller/SK_T3_Oil_BinsV2_006.LargeContigs.fna.gz)
+
+### Grupo 5
+- [SK_OS_G_Bin_AG_001](../assets/taller/SK_OS_G_Bin_AG_001.LargeContigs.fna.gz)
+- [SK_P2_Bin_002](../assets/taller/SK_P2_Bin_002.LargeContigs.fna.gz)
+- [SK_Mason_Bins_BP278_AllReads_001](../assets/taller/SK_Mason_Bins_BP278_AllReads_001.LargeContigs.fna.gz)
+- [asm_GCA_900279685_1](../assets/taller/asm_GCA_900279685_1.LargeContigs.fna.gz)
+
+### Grupo 6
+- [asm_GCA_003649305_1](../assets/taller/asm_GCA_003649305_1.LargeContigs.fna.gz)
+- [SK_P2_Bin_003](../assets/taller/SK_P2_Bin_003.LargeContigs.fna.gz)
+- [SK_BC_Bin8](../assets/taller/SK_BC_Bin8.LargeContigs.fna.gz)
+- [asm_GCA_002631935_1](../assets/taller/asm_GCA_002631935_1.LargeContigs.fna.gz)
+
+
