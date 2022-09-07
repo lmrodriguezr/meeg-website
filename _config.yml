@@ -65,3 +65,7 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+url: https://disc-genomics.uibk.ac.at
+baseurl: /lab
+
