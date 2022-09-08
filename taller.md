@@ -6,6 +6,11 @@ permalink: /taller/
 
 # Jueves: Metagenomas
 
+### Reportes de calidad (ejemplo)
+
+- [OS_I600.pre.1.html](../assets/taller/OS_I600.pre.1.html)
+- [OS_I600.post.1.html](../assets/taller/OS_I600.post.1.html)
+
 # Viernes: Genomas
 
 ### Grupo 1
