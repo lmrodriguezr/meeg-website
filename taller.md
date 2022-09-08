@@ -12,6 +12,7 @@ permalink: /taller/
 - [Metagenomas de Pensacola en EBI](https://www.ebi.ac.uk/ena/browser/view/PRJNA260285?show=reads)
 - [MiGA @ XSEDE](https://xsede.microbial-genomes.org)
 - [MiGA Manual](https://manual.microbial-genomes.org)
+- [K-Base](https://www.kbase.us/)
 
 ### Reportes de calidad (ejemplo)
 
