@@ -6,6 +6,13 @@ permalink: /taller/
 
 # Jueves: Metagenomas
 
+### Enlaces
+
+- [MGnify (EBI Metagenomics)](https://www.ebi.ac.uk/metagenomics/)
+- [Metagenomas de Pensacola en EBI](https://www.ebi.ac.uk/ena/browser/view/PRJNA260285?show=reads)
+- [MiGA @ XSEDE](https://xsede.microbial-genomes.org)
+- [MiGA Manual](https://manual.microbial-genomes.org)
+
 ### Reportes de calidad (ejemplo)
 
 - [OS_I600.pre.1.html](../assets/taller/OS_I600.pre.1.html)
