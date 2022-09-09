@@ -12,7 +12,9 @@ permalink: /taller/
 - [Metagenomas de Pensacola en EBI](https://www.ebi.ac.uk/ena/browser/view/PRJNA260285?show=reads)
 - [MiGA @ XSEDE](https://xsede.microbial-genomes.org)
 - [MiGA Manual](https://manual.microbial-genomes.org)
-- [K-Base](https://www.kbase.us/)
+- [Artículo Nonpareil 1](https://doi.org/10.1093/bioinformatics/btt584)
+- [Artículo Nonpareil 3](https://doi.org/10.1128/mSystems.00039-18)
+- [Artículo Cobertura de Metagenomas](https://doi.org/10.1038/ismej.2014.76)
 
 ### Reportes de calidad (ejemplo)
 
@@ -20,6 +22,13 @@ permalink: /taller/
 - [OS_I600.post.1.html](../assets/taller/OS_I600.post.1.html)
 
 # Viernes: Genomas
+
+### Enlaces
+
+- [Artículo CAMI Challenge](https://www.nature.com/articles/s41592-022-01431-4)
+- [Artículo evaluación MAGs](https://doi.org/10.1128/AEM.02593-20)
+- [K-Base](https://www.kbase.us/)
+- [MiGA Online](https://microbial-genomes.org/)
 
 ### Grupo 1
 - [SK_OC26_0_Bins_054](../assets/taller/SK_OC26_0_Bins_054.LargeContigs.fna.gz)
