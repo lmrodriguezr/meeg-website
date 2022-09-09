@@ -28,7 +28,7 @@ permalink: /taller/
 ### Enlaces
 
 - Herramientas
-  - [MiGA Online](https://microbial-genomes.org/)
+  - [MiGA Online](http://microbial-genomes.org/)
   - [K-Base](https://www.kbase.us/)
 - Artículos
   - [CAMI Challenge](https://www.nature.com/articles/s41592-022-01431-4)
