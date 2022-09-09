@@ -33,7 +33,7 @@ permalink: /taller/
 ### Grupo 1
 - [SK_OC26_0_Bins_054](../assets/taller/SK_OC26_0_Bins_054.LargeContigs.fna.gz)
 - [SK_OSA_bins_001](../assets/taller/SK_OSA_bins_001.LargeContigs.fna.gz)
-- [asm_GCA_004377235_1.LargeContigs.fna](../assets/taller/asm_GCA_004377235_1.LargeContigs.fna.gz)
+- [asm_GCA_004377235_1](../assets/taller/asm_GCA_004377235_1.LargeContigs.fna.gz)
 - [SK_MBAll_127](../assets/taller/SK_MBAll_127.LargeContigs.fna.gz)
 
 ### Grupo 2
