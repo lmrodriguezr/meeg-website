@@ -25,10 +25,11 @@ permalink: /taller/
 
 ### Enlaces
 
+- [MiGA Online](https://microbial-genomes.org/)
+- [K-Base](https://www.kbase.us/)
 - [Artículo CAMI Challenge](https://www.nature.com/articles/s41592-022-01431-4)
 - [Artículo evaluación MAGs](https://doi.org/10.1128/AEM.02593-20)
-- [K-Base](https://www.kbase.us/)
-- [MiGA Online](https://microbial-genomes.org/)
+- [Artículo MIMAG/MISAG](https://www.nature.com/articles/nbt.3893)
 
 ### Grupo 1
 - [SK_OC26_0_Bins_054](../assets/taller/SK_OC26_0_Bins_054.LargeContigs.fna.gz)
