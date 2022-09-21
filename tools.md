@@ -11,7 +11,7 @@ nomenclatural type.
 
 - **SeqCode Registry**: [seqco.de](https://seqco.de/)
 - **SeqCode Initiative**: [seqco.de/initiative](https://seqco.de/initiative)
-- **SeqCode**: [seqco.de/initiative](https://seqco.de/seqcode)
+- **SeqCode Document**: [seqco.de/seqcode](https://seqco.de/seqcode)
 
 ## MiGA: Microbial Genomes Atlas
 
