@@ -32,3 +32,13 @@ and maintained in collaboration with MEEGL.
 - **Online interface**: [enve-omics.ce.gatech.edu](http://enve-omics.ce.gatech.edu/)
 - **Documentation**: [enve-omics.ce.gatech.edu/enveomics/docs](http://enve-omics.ce.gatech.edu/enveomics/docs)
 
+## Science and You
+
+Stereotypes can drive how or if we see ourselves represented in science and
+technology. Together with collaborators from the [DiSC](https://uibk.ac.at/disc)
+we have developed a web app where we gather personal preferences based on a
+series of small questions to show you with whom you share preferences among a
+diverse group of researchers.
+
+- **Web application**: [disc-genomics.uibk.ac.at/say](https://disc-genomics.uibk.ac.at/say/)
+
