@@ -4,13 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
-<div
-  w3-include-html="https://lfuonline.uibk.ac.at/public/pk115_web.uebersicht?xml_include_jn_in=J&kategorien_in=1&personal_id_in=366599&sprache_id_in=2&kategorien_in=1&kategorien_in=2&kategorien_in=7&institutszuordnung_jn_in=N&sortierung_in=KATEGORIE"
-  ></div>
-
 <iframe
   src="https://lfuonline.uibk.ac.at/public/pk115_web.uebersicht?xml_include_jn_in=J&kategorien_in=1&personal_id_in=366599&sprache_id_in=2&kategorien_in=1&kategorien_in=2&kategorien_in=7&institutszuordnung_jn_in=N&sortierung_in=KATEGORIE"
   seamless width="100%" height="1000em"></iframe>
+
+<!--
+<div
+  w3-include-html="https://lfuonline.uibk.ac.at/public/pk115_web.uebersicht?xml_include_jn_in=J&kategorien_in=1&personal_id_in=366599&sprache_id_in=2&kategorien_in=1&kategorien_in=2&kategorien_in=7&institutszuordnung_jn_in=N&sortierung_in=KATEGORIE"
+  ></div>
 
 <script>
 function includeHTML() {
@@ -42,4 +43,5 @@ function includeHTML() {
 }
 includeHTML();
 </script>
+-->
 

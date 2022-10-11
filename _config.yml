@@ -57,6 +57,7 @@ header_pages:
  # - projects.md
  - teaching.md
  - tools.md
+ - publications.md
  # - join.md
 
 # Build settings
