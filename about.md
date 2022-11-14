@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+
 ---
 
 The *Microbial Ecology and Environmental Genomics Laboratory* (MEEGL) is part of
