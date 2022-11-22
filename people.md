@@ -79,17 +79,17 @@ advisor: Ramón Rosello-Mora
 
 [Website](https://imedea.uib-csic.es/ficha.php?pid=2764)
 
-### Kelly Johanna Hidalgo Martinez
-
-PhD student at State University of Campinas (UNICAMP),
-advisor: Valéria Maia Merzel
-
-**Research stay**: Expected Winter 2022/2023
-
 ### Madeeha Gohar
 
 PhD student at Quaid-i-Azam University Islamabad,
 advisor: Muhammad Imran
 
-**Research stay**: Expected Spring 2023
+**Research stay**: Winter 2022/2023
+
+### Kelly Johanna Hidalgo Martinez
+
+PhD student at State University of Campinas (UNICAMP),
+advisor: Valéria Maia Merzel
+
+**Research stay**: Expected Summer 2023
 
