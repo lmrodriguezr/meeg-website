@@ -37,12 +37,14 @@ MSc Student
 
 MSc Student
 
-### Amina-Gharib Hassan
-
-BSc Student
-
 
 # Former Students
+
+### Amina-Gharib Hassan
+
+**Bachelor thesis** (November 2022):
+The use of metagenomic approaches to study the distribution of halophilic
+microorganisms
 
 ### Lukas Gumpold
 
