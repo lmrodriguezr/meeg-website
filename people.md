@@ -25,11 +25,20 @@ and MEEGL (co-advisor: [Luis M Rodriguez-R](https://disc-genomics.uibk.ac.at))
 
 [Website](https://www.uibk.ac.at/microbiology/team/edoardo_mandolini)
 
+### Nathan Ernster
+
+PhD Student and member of MEEGL and the
+[Microbial Resource Management group](https://www.uibk.ac.at/de/microbiology/forschung/mikrobielles-ressourcenmanagement/)
+
 ### Alexander M Paoli
 
 MSc Student
 
 ### Caterina Pansoni
+
+MSc Student
+
+### Beatriz Barroso Gstrein
 
 MSc Student
 
