@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SeqCode Committee Posts"
+title: "MEEGL in the SeqCode Committee"
 categories: post
 meta: "seqcode"
 ---
