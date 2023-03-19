@@ -19,8 +19,9 @@ Efficient search of thousands of genomes using a custom ANI/AAI engine and
 data quality assessment for genomes and metagenomes.
 
 - **GitHub repositories**: [bio-miga](https://code.microbial-genomes.org)
-- **MiGA Online**: [microbial-genomes.org](https://microbial-genomes.org/)
-- **MiGA @ XSEDE**: [xsede.microbial-genomes.org](https://xsede.microbial-genomes.org/)
+- **MiGA Online (UIBK)**: [uibk.microbial-genomes.org](https://uibk.microbial-genomes.org/)
+- **MiGA Online (GATECH)**: [gatech.microbial-genomes.org](https://gatech.microbial-genomes.org/)
+- **MiGA Gateway**: [gateway.microbial-genomes.org](https://gateway.microbial-genomes.org/)
 
 ## Enveomics Collection
 
