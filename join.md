@@ -10,4 +10,5 @@ permalink: /join/
 - [USA Yellowstone National Park Hot Springs Metagenomics](2023-msc-ynp-hot-springs.html)
 - [Genomic Characterization of Novel Bacteria with Plastic Degradation Potential](2022-msc-melmc.html)
 - [2Strategies4AD: Metagenomics/Metaproteomics](2023-msc-2strategies4ad.html)
+- [Evaluation of genome-based growth predictions in _Microbacterium_](2023-msc-microbacterium-growth.html)
 
