@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rodriguez-R invited to the Micro Binfie Podcast to talk about the SeqCode"
+title: "A SeqCode Episode in the Micro Binfie Podcast"
 categories: post
 meta: "speaking"
 ---
