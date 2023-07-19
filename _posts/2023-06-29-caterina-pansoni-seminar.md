@@ -2,7 +2,7 @@
 layout: post
 title: "Caterina Pansoni at the Microbiology Seminar"
 categories: post
-meta: "seqcode"
+meta: "msc"
 ---
 
 Caterina Pansoni is presenting the results from his master thesis in the

@@ -2,7 +2,7 @@
 layout: post
 title: "Alexander Paoli at the Microbiology Seminar"
 categories: post
-meta: "seqcode"
+meta: "msc"
 ---
 
 Alexander Paoli is presenting the results from his master thesis in the
