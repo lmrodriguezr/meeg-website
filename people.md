@@ -47,6 +47,17 @@ MSc Student
 MSc Student
 
 
+# Other Staff
+
+### Melandré van Lill
+
+Intern, MSc Student at University of Pretoria, advisor: Fanus Venter
+
+**Internship**: July 2023 - January 2024
+
+[Website](https://www.fabinet.up.ac.za/index.php/people-profile?profile=1613)
+
+
 # Former Students
 
 ### Amina-Gharib Hassan
@@ -70,6 +81,13 @@ to be incorporated into the classification engine of the Microbial Genomes Atlas
 
 # Visitors
 
+### Madeeha Gohar
+
+PhD student at Quaid-i-Azam University Islamabad,
+advisor: Muhammad Imran
+
+**Research stay**: Winter 2022/2023
+
 ### Alejandro Rodríguez-Gijón
 
 PhD student at Stockholm University and SciLifeLab, advisor:
@@ -88,17 +106,12 @@ advisor: Ramón Rosello-Mora
 
 [Website](https://imedea.uib-csic.es/ficha.php?pid=2764)
 
-### Madeeha Gohar
-
-PhD student at Quaid-i-Azam University Islamabad,
-advisor: Muhammad Imran
-
-**Research stay**: Winter 2022/2023
-
+<!--
 ### Kelly Johanna Hidalgo Martinez
 
 PhD student at State University of Campinas (UNICAMP),
 advisor: Valéria Maia Merzel
 
 **Research stay**: Expected Summer 2023
+-->
 
