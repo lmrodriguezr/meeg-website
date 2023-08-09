@@ -86,12 +86,13 @@ to be incorporated into the classification engine of the Microbial Genomes Atlas
 PhD student at Quaid-i-Azam University Islamabad,
 advisor: Muhammad Imran
 
-**Research stay**: Winter 2022/2023
+**Research stay**: Winter 2022/2023, supported by an
+Ernst Mach Scholarship (OeAD)
 
 ### Alejandro Rodríguez-Gijón
 
 PhD student at Stockholm University and SciLifeLab, advisor:
-Sarahi L. García, [Miint Lab](https://miint.org/).
+Sarahi L. García, [Miint Lab](https://miint.org/)
 
 **Research stay**: Winter 2021/2022
 
