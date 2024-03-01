@@ -27,14 +27,10 @@ and MEEGL (co-advisor: [Luis M Rodriguez-R](https://disc-genomics.uibk.ac.at))
 
 ### Nathan Ernster
 
-PhD Student and member of MEEGL and the
+PhD Student, member of MEEGL, and former member of the
 [Microbial Resource Management group](https://www.uibk.ac.at/de/microbiology/forschung/mikrobielles-ressourcenmanagement/)
 
-### Alexander M Paoli
-
-MSc Student
-
-### Caterina Pansoni
+### Amina-Gharib Hassan
 
 MSc Student
 
@@ -59,6 +55,17 @@ Intern, MSc Student at University of Pretoria, advisor: Fanus Venter
 
 
 # Former Students
+
+### Alexander M Paoli
+
+**Master thesis** (November 2023):
+Characterization of biogeographic ranges of saltern prokaryotes through
+cultivation-independent genomics
+
+### Caterina Pansoni
+
+**Master thesis** (October 2023):
+Effect of glycerol addition on the anaerobic digestion process
 
 ### Amina-Gharib Hassan
 
