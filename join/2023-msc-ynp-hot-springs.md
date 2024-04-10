@@ -4,7 +4,7 @@ title: Call for Applications | MSc Thesis Topic
 
 ---
 
-**THIS CALL IS NOW CLOSED**
+**=== THIS CALL IS NOW CLOSED ===**
 
 |--------------|----------------------------------------
 | **Title**    | USA Yellowstone National Park Hot Springs Metagenomics
