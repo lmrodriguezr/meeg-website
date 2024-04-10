@@ -4,6 +4,8 @@ title: Call for Applications | MSc Thesis Topic
 
 ---
 
+**THIS CALL IS NOW CLOSED**
+
 |--------------|----------------------------------------
 | **Title**    | 2Strategies4AD: Metagenomics/Metaproteomics
 | **Advisor**  | Dr. Sebastian Hupfauf, Department of Microbiology

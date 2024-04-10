@@ -4,10 +4,12 @@ title: Call for Applications | MSc Thesis Topic
 
 ---
 
+**THIS CALL IS NOW CLOSED**
+
 |--------------|----------------------------------------
 | **Title**    | USA Yellowstone National Park Hot Springs Metagenomics
 | **Advisor**  | Dr. Luis M. Rodriguez-R, Department of Microbiology and Digital Science Center (DiSC)
-| **Number of students** | 2 (1 available)
+| **Number of students** | 2
 | **Language** | English
 
 ## Description

@@ -4,6 +4,8 @@ title: Call for Applications | MSc Thesis Topic
 
 ---
 
+**THIS CALL IS NOW CLOSED**
+
 |--------------|----------------------------------------
 | **Title**    | Genomic Characterization of Novel Bacteria with Plastic Degradation Potential
 | **Advisor**  | Assist. Prof. Dr. Luis Miguel Rodriguez Rojas, Department of Microbiology and Digital Science Center (DiSC)

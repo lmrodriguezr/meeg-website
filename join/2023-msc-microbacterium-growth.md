@@ -12,6 +12,7 @@ title: Call for Applications | MSc Thesis Topic
 | **Language** | English
 
 ## Description
+
 It has been previously shown that both the maximum growth rate and the optimal
 growth temperature of bacteria imprints statistical signatures in their genomes.
 Specifically, the codon bias of highly-transcribed genes such as ribosomal genes
@@ -30,17 +31,17 @@ additional sources of information that could explain the prediction residuals,
 potentially improving the growth rate predictions in other taxa.
 
 ## Prerequisites
+
 Ongoing Master's degree in microbiology, a capacity for both independent and
 team work, and interest in both molecular biology and genomics.
 
 ## Theoretical skills
-Foundations on microbiology and molecular biology are highly desirable.
-Additionally, knowledge on distributed systems and High-Performance Computing is
-appreciated but not required. Interest in environmental genomics is required,
-but no previous knowledge necessary. Strong foundations in statics are highly
-appreciated.
+
+Foundations on microbiology and molecular biology are highly desirable. Interest
+in environmental genomics is required, but no previous knowledge necessary.
+Strong foundations in statistics are highly appreciated.
 
 ## Practical skills
-HPC scheduler systems and basic knowledge on Bash is preferred, but not
-required.
+
+Basic knowledge on R and Bash are preferred, but not required.
 
