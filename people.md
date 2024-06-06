@@ -88,6 +88,14 @@ to be incorporated into the classification engine of the Microbial Genomes Atlas
 
 # Visitors
 
+### Alexandra Zachariadou
+
+PhD student at the National and Kapodistrian University of Athens,
+advisor: Savvas Genitsaris
+
+**Research stay**: Winter 2024/2025, supported by a
+FEMS Research and Training Grant
+
 ### Madeeha Gohar
 
 PhD student at Quaid-i-Azam University Islamabad,
@@ -110,7 +118,8 @@ Sarahi L. García, [Miint Lab](https://miint.org/)
 PhD student at Mediterranean Institute for Advanced Studies (IMEDEA),
 advisor: Ramón Rosello-Mora
 
-**Research stay**: Fall 2021
+**Research stay**: Fall 2021, supported by a
+FEMS Research and Training Grant
 
 [Website](https://imedea.uib-csic.es/ficha.php?pid=2764)
 
