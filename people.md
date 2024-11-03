@@ -16,23 +16,10 @@ Center (DiSC)
 
 # Current Students
 
-### Edoardo Mandolini
-
-PhD Student and member of the
-[Mycology group](https://www.uibk.ac.at/microbiology/research/mykologie/)
-(advisor: [Ursula Peintner](https://www.uibk.ac.at/microbiology/team/peintner_ursula))
-and MEEGL (co-advisor: [Luis M Rodriguez-R](https://disc-genomics.uibk.ac.at))
-
-[Website](https://www.uibk.ac.at/microbiology/team/edoardo_mandolini)
-
 ### Nathan Ernster
 
 PhD Student, member of MEEGL, and former member of the
 [Microbial Resource Management group](https://www.uibk.ac.at/de/microbiology/forschung/mikrobielles-ressourcenmanagement/)
-
-### Amina-Gharib Hassan
-
-MSc Student
 
 ### Beatriz Barroso Gstrein
 
@@ -55,6 +42,18 @@ Intern, MSc Student at University of Pretoria, advisor: Fanus Venter
 
 
 # Former Students
+
+### Edoardo Mandolini
+
+PhD Student and member of the
+[Mycology group](https://www.uibk.ac.at/microbiology/research/mykologie/)
+(advisor: [Ursula Peintner](https://www.uibk.ac.at/microbiology/team/peintner_ursula))
+and MEEGL (co-advisor: [Luis M Rodriguez-R](https://disc-genomics.uibk.ac.at))
+
+**PhD thesis** (April 2024):
+Microbial Interactions in Snow Covered Habitats
+
+[Website](https://www.uibk.ac.at/microbiology/team/edoardo_mandolini)
 
 ### Alexander M Paoli
 
