@@ -21,6 +21,10 @@ Center (DiSC)
 PhD Student, member of MEEGL, and former member of the
 [Microbial Resource Management group](https://www.uibk.ac.at/de/microbiology/forschung/mikrobielles-ressourcenmanagement/)
 
+### Vadym Sokhan
+
+MSc Student
+
 ### Beatriz Barroso Gstrein
 
 MSc Student
