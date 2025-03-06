@@ -18,27 +18,23 @@ Center (DiSC)
 
 ### Nathan Ernster
 
-PhD Student, member of MEEGL, and former member of the
-[Microbial Resource Management group](https://www.uibk.ac.at/de/microbiology/forschung/mikrobielles-ressourcenmanagement/)
+PhD Student
+
+### Juan Valero Tobar
+
+PhD Student at University of Valencia (Spain), co-advised by Luis M Rodriguez-R
+(MEEG), advisor: Maria Dzunkova
 
 ### Vadym Sokhan
 
 MSc Student
 
-### Beatriz Barroso Gstrein
-
-MSc Student
-
-### Dorothea Schneider
-
-MSc Student
-
-
 # Other Staff
 
 ### Melandré van Lill
 
-Intern, MSc Student at University of Pretoria, advisor: Fanus Venter
+Intern, MSc Student at University of Pretoria (South Africa),
+advisor: Fanus Venter
 
 **Internship**: July 2023 - January 2024
 
@@ -46,6 +42,21 @@ Intern, MSc Student at University of Pretoria, advisor: Fanus Venter
 
 
 # Former Students
+
+### Beatriz Barroso Gstrein
+
+MSc Student - Data Science.
+
+**MSc thesis** (November 2024):
+Standard-free quantification of compounds with mass spectrometry
+
+## Dorothea Schneider
+
+MSc Student - Data Science.
+
+**MSc thesis** (May 2024):
+Prediction of verbalin amount in the medicinal plant *Verbena officinalis* by
+Machine Learning based on NIR data
 
 ### Edoardo Mandolini
 
@@ -55,7 +66,7 @@ PhD Student and member of the
 and MEEGL (co-advisor: [Luis M Rodriguez-R](https://disc-genomics.uibk.ac.at))
 
 **PhD thesis** (April 2024):
-Microbial Interactions in Snow Covered Habitats
+Microbial interactions in snow-covered habitats
 
 [Website](https://www.uibk.ac.at/microbiology/team/edoardo_mandolini)
 
